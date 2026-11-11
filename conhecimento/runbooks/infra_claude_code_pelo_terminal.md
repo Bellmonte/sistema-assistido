@@ -37,7 +37,7 @@ o texto e a sugestão de ícone.
 
 Uma linha do tempo horizontal com cinco paradas:
 
-1. **Abrir o terminal na raiz do caderno.** `cd <caminho>\claude-caderno`
+1. **Abrir o terminal na raiz do caderno.** `cd <caminho>\meu-caderno`
 2. **Puxar o caderno.** `git pull --ff-only`. Se der conflito, parar e olhar.
 3. **Subir a sessão.** `claude` (nova) ou `claude -c` (continua a última). O hook
    `abrir_dia.py` já mostra as demandas abertas, as que esperam terceiro e o dia sem narrativa.

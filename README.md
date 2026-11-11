@@ -1,4 +1,4 @@
-# claude-caderno
+# sistema-assistido
 
 Um sistema de trabalho com Claude Code para quem vive de demanda: chamado, task de sprint,
 projeto de BI, incidente. Ele conduz cada demanda do pedido até a entrega, registra sozinho o que
@@ -67,7 +67,7 @@ e aponte para um repositório seu, de preferência privado, porque é ali que o 
 morar:
 
 ```bash
-git clone https://github.com/Bellmonte/claude-caderno.git meu-caderno
+git clone https://github.com/Bellmonte/sistema-assistido.git meu-caderno
 ```
 
 **2. Ligue a trava de segredo.** O `core.hooksPath` é configuração local e não vem no clone:
@@ -172,7 +172,7 @@ proibido de ler. A trava em `.githooks/pre-commit` barra commit com cara de segr
 O [claude-worklog](https://github.com/natanaeloliver/claude-worklog) parte da mesma ideia por
 outro ângulo. Ele resolve a mecânica de sessão para um time: injeta o contexto da demanda ativa,
 trabalha com vários repositórios e várias janelas e se recupera de queda de terminal. O
-claude-caderno resolve o método: como conduzir, documentar, aprender e prestar contas. Os dois
+sistema-assistido resolve o método: como conduzir, documentar, aprender e prestar contas. Os dois
 convivem bem.
 
 ## Licença

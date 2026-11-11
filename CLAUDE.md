@@ -1,4 +1,4 @@
-# claude-caderno · assistente de trabalho
+# sistema-assistido · assistente de trabalho
 
 > Carregado em toda sessão aberta neste repositório. As ferramentas (skills, agentes, hooks,
 > settings) vivem em `.claude/` e viajam com o `git clone`: trocar de máquina é clonar.
